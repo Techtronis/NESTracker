@@ -1,5 +1,5 @@
 # NESTracker
-NESTracker will allow you to read data about most Nintendo consoles (from the Color TV Game up to the Switch OLED)
+NESTracker will allow you to read data such as the initial price, release date and more about all Nintendo consoles ever released (from the Color TV Game up to the Switch OLED)
 
 Coming Soon to the Apple App Store!
 
