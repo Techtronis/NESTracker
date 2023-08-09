@@ -1,8 +1,6 @@
 # NESTracker
 NESTracker will allow you to read data such as the initial price, release date and more about all Nintendo consoles ever released (from the Color TV Game up to the Switch OLED)
 
-Coming Soon to the Apple App Store!
+Now on Apple Testflight: https://testflight.apple.com/join/wwep90dI
 
-This is a beta, please do contact me at alexisjost20@gmail.com if you are facing any issues.
-
-Thank you <3
+Apple rejected it for the app store but I will keep updating it for testflight.
