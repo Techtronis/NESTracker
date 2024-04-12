@@ -5,6 +5,8 @@ Now on Apple [Testflight](https://testflight.apple.com/join/wwep90dI)
 
 Apple rejected it for the app store but I will keep updating it for testflight.
 
+Will be turning open source in August 2024
+
 You can also download the IPA in the releases tab.
 
 
